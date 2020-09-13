@@ -3,3 +3,10 @@
 The purpose was to analyze temperature data for the months of June and December to determine the sustanability of the business year round.
 
 ## Results
+
+
+## Summary
+
+Additional queries
+  June/December precipitation
+  
